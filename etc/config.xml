@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<value name="camera settings">
+  <feature id="Pan" mode="Manual (1)">100</feature>
+  <feature id="Brightness" mode="Manual (1)">130</feature>
+  <feature id="Exposure" mode="Automatic (2)"/>
+  <feature id="Sharpness" mode="Manual (1)">191</feature>
+  <feature id="White balance" mode="Automatic (2)" on="true"/>
+  <feature id="Saturation" mode="Manual (1)">44</feature>
+  <feature id="Gain" mode="Manual (1)">1</feature>
+  <feature id="Temperature" mode="Manual (1)">4000</feature>
+  <feature id="Contrast" mode="Manual (1)">40</feature>
+  <feature id="Focus" mode="Manual (1)">191</feature>
+</value>
+
+<value name="xtion mount angle">-33.2°</value>
+<value name="xtion mount height">0.26</value>
+<value name="xtion raster width">4</value>
+<value name="filter ground plane">true</value>
+
+<value name="IR Sensor Arrangement">
+  <element>(0.05, 0, 0.1, 0°, 0°, 0°)</element>       <!--front-->
+  <element>(0.06, 0.0625, 0.1, 0°, 0°, 0°)</element>  <!--L-->
+  <element>(0.05, 0.1, 0.1, 0°, 0°, 20°)</element>    <!--LL-->
+  <element>(-0.2, 0.05, 0.1, 0°, 0°, 20°)</element>   <!--LLL-->
+  <element>(0.06, -0.0625, 0.1, 0°, 0°, 0°)</element> <!--R-->
+  <element>(0.05, -0.1, 0.1, 0°, 0°, -20°)</element>  <!--RR-->
+  <element>(-0.2, -0.05, 0.1, 0°, 0°, -20°)</element> <!--RRR-->
+  <element>(-0.2, -0, 0.1, 0°, 0°, 180°)</element>    <!--rear-->
+</value>
+
+<node name="Velocity Controller">
+  <value name="kp">1000</value>
+  <value name="ki">800</value>
+  <value name="max">500</value>
+  <value name="min">-500</value>
+</node>
+</root>

@@ -1,0 +1,199 @@
+[33mcommit 10962b51cdb57ce9177d7a9b4284bb01781ac21a[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Fri Feb 2 16:46:06 2018 +0100
+
+    add option to debug TransmitterDummy
+
+[33mcommit ea8c0491fc0bc7a10140f27cdac43e49157a474a[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Fri Feb 2 15:39:18 2018 +0100
+
+    bug fixing
+
+[33mcommit b8966950bb22d5a9ec23b2aae354b3e8ae8ebb60[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Fri Feb 2 15:12:00 2018 +0100
+
+    update part
+
+[33mcommit 5c774573517521bc27a8971143d0cd6658fb1e79[m
+Author: Piotr Meller <meller@rhrk.uni-kl.de>
+Date:   Fri Feb 2 14:13:33 2018 +0100
+
+    update
+
+[33mcommit 2d6b558d44f56327808b439745497555acef0810[m
+Author: mutabazi <mutabazi@rhrk.uni-kl.de>
+Date:   Fri Feb 2 12:43:32 2018 +0100
+
+    update
+
+[33mcommit 2f9bce3550199f60e9e4b70c6d102805ef21f9a1[m
+Author: mutabazi <mutabazi@rhrk.uni-kl.de>
+Date:   Thu Feb 1 18:03:19 2018 +0100
+
+    navi update
+
+[33mcommit 4bd1a74a9244639f200fbd27f793140071e39a0d[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Fri Feb 2 12:41:38 2018 +0100
+
+    part unimogControl bugfixing
+
+[33mcommit 7126daac39bbfc0cce8f17c3be411dfe8ceeb3dd[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Fri Feb 2 12:20:42 2018 +0100
+
+    update part mainControl and group mainControl
+
+[33mcommit fc07840414d8e6adfabe034555ae8ad0f1c53d7a[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Fri Feb 2 11:58:53 2018 +0100
+
+    transmitter-dummy bug fixing
+
+[33mcommit 6738b482ecd36e34cd86493595ff17a205c79c94[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Thu Feb 1 18:15:12 2018 +0100
+
+    update
+
+[33mcommit 07b32926d89631e580867c2dae2c6c1c93771d16[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Thu Feb 1 17:48:55 2018 +0100
+
+    object detection - file system update
+
+[33mcommit b7fad41ff8b4d4dd40c7b20cc73c53a3a5574aab[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Thu Feb 1 17:31:58 2018 +0100
+
+    object detection update - now it should compile
+
+[33mcommit be647bc766c787d03925bedb3832daf6fcb2da74[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Thu Feb 1 15:11:23 2018 +0100
+
+    DetectedObject bug-fixing
+
+[33mcommit dec4f3441f99eb702dddd46f8c4fd1bc1c089e76[m
+Author: mutabazi <mutabazi@rhrk.uni-kl.de>
+Date:   Thu Feb 1 14:37:17 2018 +0100
+
+    navi update
+
+[33mcommit 66376c065652ca8d692530ede1510bb7a0ee7a7e[m
+Author: mutabazi <mutabazi@rhrk.uni-kl.de>
+Date:   Tue Jan 30 20:49:25 2018 +0100
+
+    i can read now through listofdetectedobjects
+
+[33mcommit ba6628eebfe2c62b2561a650d7323121605f8989[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Thu Feb 1 14:33:37 2018 +0100
+
+    make-file edited in obeject_detection,
+    DetectedObject bug-fix - now it should work,
+    dummy-modul add, which sends fake list with detected_object, for test in navi
+
+[33mcommit 6608161a7ff2ba900a915abd1bc4853efa214127[m
+Author: Piotr Meller <meller@rhrk.uni-kl.de>
+Date:   Tue Jan 30 21:34:10 2018 +0100
+
+    almost finished version
+
+[33mcommit af223e80cb064430f4c0143109ac3a05ba67ae2e[m
+Author: Piotr Meller <meller@rhrk.uni-kl.de>
+Date:   Tue Jan 30 19:20:20 2018 +0100
+
+    should be without make.xml
+
+[33mcommit 13d87030c781e91478f049e6f7c3072f7cd1f0a1[m
+Author: mutabazi <mutabazi@rhrk.uni-kl.de>
+Date:   Tue Jan 30 19:08:07 2018 +0100
+
+    ghhegkhefgiugkjgweiogh
+
+[33mcommit 7c7a00ad29389a0f8694340b8e090b3d85b433ef[m
+Author: Piotr Meller <meller@rhrk.uni-kl.de>
+Date:   Tue Jan 30 19:05:47 2018 +0100
+
+    camera_dir added
+
+[33mcommit c9cb9bf93e8910543d86a17d5a82bd3659f9b886[m
+Author: Piotr Meller <meller@rhrk.uni-kl.de>
+Date:   Tue Jan 30 17:55:15 2018 +0100
+
+    test
+
+[33mcommit 2a4cf5667f56a86e1ce61010ca1042f78fd54fc8[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Tue Jan 30 17:31:16 2018 +0100
+
+    object_detection update
+
+[33mcommit 8572535d93abcb0fe9949e3f61e1c8b6d5ee8a49[m
+Author: mutabazi <mutabazi@rhrk.uni-kl.de>
+Date:   Wed Jan 24 21:19:23 2018 +0100
+
+    Drive module computes only angle2_Marking and  speedcomputer calculate the distances to the line with the help of computed angle from drive module
+
+[33mcommit b9f3a364ac5a4a109c50128f9d6ae594f0a359cc[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Wed Jan 24 16:51:49 2018 +0100
+
+    make file update
+
+[33mcommit 1aa73b0c04eef5c5e7753a8856a98bee0ca8f32f[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Wed Jan 24 16:19:51 2018 +0100
+
+    file system update
+
+[33mcommit af3f2343f595dc6ba67150e991b4e8c16b597f15[m
+Author: mutabazi <mutabazi@rhrk.uni-kl.de>
+Date:   Wed Jan 24 14:37:08 2018 +0100
+
+    update
+
+[33mcommit 3ef1ec6960cb6274af1f8552ca443904db0e9821[m
+Author: mutabazi <mutabazi@rhrk.uni-kl.de>
+Date:   Wed Jan 24 14:35:30 2018 +0100
+
+    make file bug fixing
+
+[33mcommit 6cae73e614a441b89fd84edc1c076f5e0fbd0ae9[m
+Author: mutabazi <mutabazi@rhrk.uni-kl.de>
+Date:   Wed Jan 24 14:34:17 2018 +0100
+
+    bugfixing - now it compilied
+
+[33mcommit 24ba97d519c3dedac88062be78d5519a8acb3d24[m
+Author: mutabazi <mutabazi@rhrk.uni-kl.de>
+Date:   Wed Jan 24 14:28:47 2018 +0100
+
+    make file update
+
+[33mcommit 973417a170b5eb0bb04b0eaa4cd9938be7302312[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Wed Jan 24 14:23:09 2018 +0100
+
+    object_detection update
+
+[33mcommit bbe154ef50e5c18f01a1b344a85568774687a68d[m
+Author: mutabazi <mutabazi@rhrk.uni-kl.de>
+Date:   Wed Jan 24 14:18:20 2018 +0100
+
+    testen von git
+
+[33mcommit 7659d8d5392731c4c7b29af8ee7dfd9e3795f2bf[m
+Author: mutabazi <mutabazi@rhrk.uni-kl.de>
+Date:   Wed Jan 24 14:08:29 2018 +0100
+
+    navi update
+
+[33mcommit f4c5cdb2810a1aa50e8449624ade4622fa83ad61[m
+Author: dornhof <dornhof@rhrk.uni-kl.de>
+Date:   Wed Jan 24 12:12:13 2018 +0100
+
+    Initial commit

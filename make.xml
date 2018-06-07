@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE targets PUBLIC "-//RRLIB//DTD make 1.0" "http://finroc.org/xml/1.0/make.dtd">
+<targets>
+
+	<finroclibrary>
+		<sources>
+			gMainControl.cpp
+		</sources>
+	</finroclibrary>
+
+	<finroclibrary name="object_detection">
+		<sources exclude="object_detection/mTransmitter.cpp">
+			object_detection/*.cpp
+		</sources>
+	</finroclibrary>
+
+	<finroclibrary name="navigation">
+		<sources>
+			navigation/*.cpp
+		</sources>
+	</finroclibrary>
+	
+	<finroclibrary name="collision_detection">
+		<sources> collision_detection/*.cpp
+		</sources>
+	</finroclibrary>
+	
+	<finroclibrary name="collision_avoid">
+		<sources>
+			collision_avoid/*.cpp
+		</sources>
+	</finroclibrary>
+<!--     -->
+	<finroclibrary name="libraries">
+		<sources>
+			libraries/*.cpp
+		</sources>
+	</finroclibrary>
+	
+	   <finroclibrary name="utilities">
+        <sources>
+            utilities/camera_utilities/*.cpp
+        </sources>
+    </finroclibrary>
+
+
+	<finrocprogram name="rc_unimog_control_group2">
+		<sources>
+			pUnimogControl.cpp
+		</sources>
+	</finrocprogram>
+
+</targets>
+
+<!--    -->

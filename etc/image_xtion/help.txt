@@ -1,0 +1,3 @@
+color1	white
+color2	red
+color3	orange
